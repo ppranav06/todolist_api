@@ -1,0 +1,22 @@
+{
+  "name": "todolist_api",
+  "version": "1.0.0",
+  "description": "Express-based backend to access data from mongodb for todolist_app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppranav06/todolist_api.git"
+  },
+  "author": "Pranav Krishna P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppranav06/todolist_api/issues"
+  },
+  "homepage": "https://github.com/ppranav06/todolist_api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
